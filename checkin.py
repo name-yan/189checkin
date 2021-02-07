@@ -144,4 +144,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
     helper = CheckIn(args.username, args.password)
     helper.check_in()
- 
+
